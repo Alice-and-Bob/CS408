@@ -24,7 +24,7 @@
 + [x] [第六章 应用层](https://github.com/Alice-and-Bob/CS408/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%BA%94%E7%94%A8%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%BA%94%E7%94%A8%E5%B1%82.xmind)
 ## 数据结构  
 + [x] [第一章 绪论](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.xmind)
-+ [ ] 第二章 线性表
++ [x] 第二章 线性表
 + [ ] 第三章 栈和队列
 + [ ] 第四章 树与二叉树
 + [ ] 第五章 图

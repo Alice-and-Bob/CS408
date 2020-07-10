@@ -24,19 +24,20 @@
 + [x] [第六章 应用层](https://github.com/Alice-and-Bob/CS408/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%BA%94%E7%94%A8%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%BA%94%E7%94%A8%E5%B1%82.xmind)
 ## 数据结构  
 + [x] [第一章 绪论](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.xmind)
-+ [x] 第二章 线性表
-+ [ ] 第三章 栈和队列
-+ [ ] 第四章 树与二叉树
-+ [ ] 第五章 图
-+ [ ] 第六章 查找
-+ [ ] 第七章 排序
-  
-## 网络安全基础与应用  
-+ [x] 第一章 概论
-+ [x] 第二章 密码学
-+ [ ] 第三章 应用安全
-+ [ ] 第四章 系统安全
++ [x] [第二章 线性表](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E8%A1%A8/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E8%A1%A8.xmind)
++ [x] [第三章 栈和队列](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97.xmind)
++ [x] 第四章 串
++ [ ] 第五章 树与二叉树
++ [ ] 第六章 图
++ [ ] 第七章 查找
++ [ ] 第八章 排序
   
 ## 操作系统
 ## 计算机组成原理
 
+  
+## 网络安全基础与应用  
++ [x] 第一章 概论
++ [x] 第二章 密码学
++ [x] 第三章 应用安全
++ [ ] 第四章 系统安全

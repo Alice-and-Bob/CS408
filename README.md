@@ -30,8 +30,8 @@
 + [x] [第二章 线性表](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E8%A1%A8/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E8%A1%A8.xmind)
 + [x] [第三章 栈和队列](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97.xmind)
 + [x] [第四章 串](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%B2.xmind)
-+ [x] 第五章 树与二叉树
-+ [ ] 第六章 图
++ [x] [第五章 树与二叉树](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91.xmind)
++ [x] 第六章 图
 + [ ] 第七章 查找
 + [ ] 第八章 排序
   

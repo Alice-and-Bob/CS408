@@ -13,7 +13,9 @@
    
   
 ## NOTE：  
-+ 不适合在XMind里表达的内容，全部写在了同文件夹里的`*.md`文件或是`*.cpp`文件；一个文件夹里应该关注的仅有`*.xmind, *.md, *.cpp`文件，其余可以不用管  
++ 不适合在XMind里表达的内容，全部写在了同文件夹里的`*.md`文件或是`*.cpp`文件；
+
++ **务必重点关注文件夹里的`*.md`文件**
   
 + 在Markdown文件中使用了latex代码，请确保你的Markdown编辑器支持latex扩展以提高阅读体验
 
@@ -37,8 +39,8 @@
 + [x] [第四章 串](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC4%E7%AB%A0%20%E4%B8%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%B2.xmind)
 + [x] [第五章 树与二叉树](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC5%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91.xmind)
 + [x] [第六章 图](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC6%E7%AB%A0%20%E5%9B%BE/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%9B%BE.xmind)
-+ [x] 第七章 查找
-+ [ ] 第八章 排序
++ [x] [第七章 查找](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC7%E7%AB%A0%20%E6%9F%A5%E6%89%BE/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%9F%A5%E6%89%BE.xmind)
++ [x] [第八章 排序](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC8%E7%AB%A0%20%E6%8E%92%E5%BA%8F/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8E%92%E5%BA%8F.xmind)
   
 ## 计算机组成原理  
 + [ ] 第一章 计算机系统概述

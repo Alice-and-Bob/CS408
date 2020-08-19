@@ -43,7 +43,7 @@
 + [x] [第八章 排序](https://github.com/Alice-and-Bob/CS408/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AC%AC8%E7%AB%A0%20%E6%8E%92%E5%BA%8F/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8E%92%E5%BA%8F.xmind)
   
 ## 计算机组成原理  
-+ [ ] 第一章 计算机系统概述
++ [x] 第一章 计算机系统概述
 + [ ] 第二章 数据的表示和运算
 + [ ] 第三章 存储系统
 + [ ] 第四章 指令系统

@@ -21,7 +21,7 @@
 
 > 或许你也可以参考[这个项目](https://github.com/SSHeRun/CS-Xmind-Note)
  
-![image](立即推.jpg)
+![立即推.jpg](https://i.loli.net/2020/09/17/NQVePmIOlBcYsKG.jpg)
   
 ---
 
@@ -52,7 +52,7 @@
 + [x] 第七章 输入输出系统  
 
 ## 操作系统  
-+ [ ] 第一章 计算机系统概述
++ [x] 第一章 计算机系统概述
 + [ ] 第二章 进程管理
 + [ ] 第三章 内存管理
 + [ ] 第四章 文件管理
